@@ -1,0 +1,14 @@
+O menu hamburguer é um recurso comum em aplicações web e móveis que permite que os usuários acessem diferentes seções ou páginas da aplicação de maneira rápida e fácil. Ele é representado por um ícone de três barras horizontais, semelhante a um sanduíche, que é colocado no canto superior esquerdo ou direito da tela.
+
+Ao clicar no ícone do menu hamburguer, um painel de navegação é exibido com uma lista de opções ou links para outras seções ou páginas da aplicação. Esse painel pode ser exibido de diferentes maneiras, como sobrepondo o conteúdo atual ou empurrando o conteúdo para o lado.
+
+A utilização do menu hamburguer permite que a aplicação tenha uma interface mais limpa e organizada, pois os links de navegação não precisam estar sempre visíveis na tela. Além disso, é uma solução que economiza espaço em telas menores, como em dispositivos móveis.
+
+Para implementar um menu hamburguer em uma aplicação web, é comum utilizar tecnologias como HTML, CSS e JavaScript. O HTML é utilizado para definir a estrutura do menu, o CSS é utilizado para definir o estilo e a aparência do menu, e o JavaScript é utilizado para implementar a lógica de exibição e ocultação do menu ao clicar no ícone.
+
+Em resumo, o menu hamburguer é uma ferramenta importante em aplicações web e móveis que permite que os usuários naveguem facilmente entre diferentes seções ou páginas da aplicação. Sua utilização pode proporcionar uma interface mais limpa e organizada, além de economizar espaço em telas menores.
+
+
+
+
+
